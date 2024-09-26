@@ -141,7 +141,7 @@ CREATE TABLE `users` (
 
 5. **Create a new database named** `bus`.
 
-6. **Import the provided SQL file **(`bus.sql`) **into the** `bus` **database.**
+6. **Import the provided SQL file ** (`bus.sql`) **into the** `bus` **database.**
 
 7. **Open your browser and navigate to** `http://localhost/online-bus-booking-system` **to run the project.**
 
